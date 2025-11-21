@@ -55,10 +55,10 @@ AlexNetをべースに、ResNetのショートカット構造（Residual Block�
 * STL10_Classifier_a_la_ResNet.ipynb: ResNet風CNNの構築・学習・評価・可視化
 
 ## ◇ ノートブック実行リンク
-* STL10_Classifier_a_la_AlexNet_Base.ipynb（AlexNet風CNN）
+* STL10_Classifier_a_la_AlexNet_Base.ipynb（AlexNet風CNN）  
   => [Google Colab で開く](https://colab.research.google.com/drive/1rVHDc_oGgn2btimpQCGlcZzIyOT9A_cB?usp=drive_link)
 
-* STL10_Classifier_a_la_ResNet.ipynb（ResNet風CNN）
+* STL10_Classifier_a_la_ResNet.ipynb（ResNet風CNN）  
   => [Google Colab で開く](https://colab.research.google.com/drive/1WfsbF9_6IzCDgcyzyLTUPLFiiJDdIg7M?usp=drive_link)
 
 
